@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
+    <expand />
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261c638a-e02c-4641-b3a5-7d8aaeed17c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vg.txt" afterDir="false" />
-    </list>
+    <list default="true" id="261c638a-e02c-4641-b3a5-7d8aaeed17c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605538968238</updated>
-      <workItem from="1605538969320" duration="464000" />
+      <workItem from="1605538969320" duration="918000" />
     </task>
     <servers />
   </component>
@@ -83,5 +73,9 @@
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
     <state x="496" y="251" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1605539264195" />
+    <state x="738" y="236" width="722" height="550" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1605539828881">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="738" y="236" width="722" height="550" key="git4idea.branch.GitBranchIsNotFullyMergedDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1605539828881" />
   </component>
 </project>
