@@ -10,7 +10,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261c638a-e02c-4641-b3a5-7d8aaeed17c1" name="Default Changelist" comment="" />
+    <list default="true" id="261c638a-e02c-4641-b3a5-7d8aaeed17c1" name="Default Changelist" comment="Commiting from git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vg.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +55,14 @@
       <updated>1605538968238</updated>
       <workItem from="1605538969320" duration="918000" />
     </task>
+    <task id="LOCAL-00001" summary="Commiting from git">
+      <created>1605546942788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605546942788</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,6 +71,22 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -67,12 +94,21 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commiting from git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting from git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="251" key="Vcs.Push.Dialog.v2" timestamp="1605539264195">
+    <state x="496" y="251" key="Vcs.Push.Dialog.v2" timestamp="1605546746218">
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
-    <state x="496" y="251" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1605539264195" />
+    <state x="496" y="251" key="Vcs.Push.Dialog.v2/0.23.1792.1024@0.23.1792.1024" timestamp="1605546746218" />
     <state x="738" y="236" width="722" height="550" key="git4idea.branch.GitBranchIsNotFullyMergedDialog" timestamp="1605539828881">
       <screen x="0" y="23" width="1792" height="1024" />
     </state>
